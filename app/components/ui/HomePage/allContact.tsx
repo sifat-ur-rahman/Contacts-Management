@@ -111,7 +111,7 @@ function AllContact() {
             className="border flex hover:border-green-300 rounded-xl text-xl p-2 my-3 items-center justify-items-center px-5"
             key={data.id}
           >
-            <div className="h-[200] mb-2 flex items-center">
+            <div className="h-[200] mb-2 mx-2 flex items-center">
               <Image
                 src={data.img}
                 alt={`${data?.name} Image`}
