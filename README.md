@@ -1,6 +1,17 @@
-# FoundIt Online Client
+# Contacts Management Application (Client-Side)
 
-Welcome to the Lost & Found Client repository. This project is the front-end part of the Lost & Found platform, a community-driven website designed to help individuals report and reclaim lost items.
+This is the frontend of the Contacts Management Application built with Next.js, TypeScript, and Redux for state management. The application allows users to add, update, delete, and manage contacts, with features like marking favorites and displaying contact details in a visually appealing way. It connects to a backend built with Node.js, Express.js, TypeScript and MongoDB.
+
+### Features
+
+- Add Contacts: Users can add new contacts with name, phone number, email, address, and profile picture.
+- View Contacts: Display all contacts as cards with contact details and options to update or delete.
+- Update Contacts: Edit contact information through a modal interface.
+- Delete Contacts: Remove a contact from the list.
+- Mark as Favorite: Users can mark/unmark contacts as favorites.
+- Loading Animations: Smooth loading animation during form submissions.
+- Error Handling: Proper error messages and user feedback for invalid inputs.
+- Responsive Design: The UI is fully responsive across devices, with animations for enhanced user experience.
 
 ## Live Link:
 
@@ -14,24 +25,8 @@ Welcome to the Lost & Found Client repository. This project is the front-end par
 
 ### User:
 
-- username: `user`
-- userEmail:`user@gmail.com`
-- password: `user123`
-
-### Admin:
-
-- username: `admin`
-- adminEmail:`admin@gmail.com`
-- password: `admin123`
-
-## Features
-
-- Home Page: Access the main features of the platform including reporting lost and found items.
-- User Authentication: Login and registration functionalities.
-- Report Lost Items: Submit detailed reports for lost items.
-- Report Found Items: Submit detailed reports for found items.
-- Profile Management: Manage user profile, claim requests, and reported items.
-- Admin Dashboard: Admin features for user and site management
+- userEmail:`md.sifat.ur.rahman2702@gmail.com`
+- password: `123456`
 
 ## Run the client application locally
 

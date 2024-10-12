@@ -43,7 +43,7 @@ const Login = () => {
           dispatch(setUser({ user, token: res?.data?.token }));
           toast.success(res?.message || "Successfully log in");
 
-          router.push(`/dashboard`);
+          router.push(`/`);
         }
       })
       .catch((res: any) => {
