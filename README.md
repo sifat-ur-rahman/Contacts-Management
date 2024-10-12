@@ -15,11 +15,11 @@ This is the frontend of the Contacts Management Application built with Next.js, 
 
 ## Live Link:
 
-### https://found-it-online-client.vercel.app/
+### https://contacts-management-eight.vercel.app
 
 ## Server repository
 
-### https://github.com/sifat-ur-rahman/FoundItOnline-server
+### https://github.com/sifat-ur-rahman/Contacts-Management-server
 
 ## User Info
 
